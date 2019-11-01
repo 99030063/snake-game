@@ -5,7 +5,7 @@ var c = canvas.getContext("2d") //c is context
 var scale = 10;
 var rows = canvas.height/scale;
 var column = canvas.width/scale;
-var speedChoice = 300; // dit heeft invloed op de snelheid (MAX. 500)
+var speedChoice = 450; // dit heeft invloed op de snelheid (MAX. 500)
 var speed = 500 - speedChoice;
 
 var snake;
