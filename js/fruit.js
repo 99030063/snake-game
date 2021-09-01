@@ -16,3 +16,5 @@ function Fruit(){
         c.strokeRect (this.x, this.y, scale, scale);
     }
 }
+
+#test
